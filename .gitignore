@@ -12,6 +12,8 @@
 /.next/
 /out/
 
+
+
 # production
 /build
 
@@ -28,3 +30,5 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# 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
